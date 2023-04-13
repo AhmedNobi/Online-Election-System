@@ -1,6 +1,6 @@
 # Online-Election-System
 
-This is a simple command-line program written in C++ that allows users to manage votes data for a group of students. The program can perform the following tasks:
+This is a simple command-line program written in C++ that allows users to manage votes data for a group of voters. The program can perform the following tasks:
 
 1. Add Candidate
 2. List Candidates
