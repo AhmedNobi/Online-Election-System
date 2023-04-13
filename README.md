@@ -8,7 +8,7 @@ This is a simple command-line program written in C++ that allows users to manage
 4. View Results
 
 ## Getting Started
-To use the program, simply download the attendance.cpp file and compile it using a C++ compiler such as g++ or Visual Studio. The program has been tested on Windows and Linux.
+To use the program, simply download the main.cpp file and compile it using a C++ compiler such as g++ or Visual Studio. The program has been tested on Windows and Linux.
 
 ## Usage
 Upon running the program, users will be presented with a menu of options. They can select an option by entering the corresponding number and pressing enter. Here are the available options:
